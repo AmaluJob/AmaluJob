@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/800523149241352233/1081401498132561971/output-onlinegiftools.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-   <a href="www.linkedin.com/in/amalu-job/">
+   <a href="https://www.linkedin.com/in/amalu-job">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://jobamalu598605@gmail.com">
