@@ -24,7 +24,7 @@
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
 
 ### What I am a part of
-- **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
+- **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C510BAQEq5r1ol6xSEw/company-logo_100_100/0/1519874930300?e=1686182400&v=beta&t=E4g6CTV2chnV5xkNF9UoVozFwIMWwmMH4L_YJZayewI" />
 
 - **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1066956886982795304/8SlRtnys03P08AsJ2J876EbDurTg7yejNOB7y6fPFyMjIyMjIyMjIaKXAbh3JCkIbFtNAAAAAElFTkSuQmCC.png" />
 
