@@ -29,7 +29,7 @@
 - **Student Trainee** at Baylor College of Medicine: Kaipparettu Lab <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C510BAQEq5r1ol6xSEw/company-logo_100_100/0/1519874930300?e=1686182400&v=beta&t=E4g6CTV2chnV5xkNF9UoVozFwIMWwmMH4L_YJZayewI" />
 
 
-### How to reach me
+### How to reach me/Links:
 - :mailbox: : jobamalu598605@gmail.com
 - :link: : www.linkedin.com/in/amalu-job
 - 🍱   :  https://bento.me/amalu
