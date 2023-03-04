@@ -35,12 +35,12 @@
 - **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
 ### How to reach me
-- :mailbox: : ashishjob104@gmail.com
-- :link: : https://www.linkedin.com/in/ashish-job/
-- 🍱   :  https://bento.me/ashishjob
+- :mailbox: : jobamalu598605@gmail.com
+- :link: : www.linkedin.com/in/amalu-job
+- 🍱   :  https://bento.me/amalu
 
 -------------------------------------------------------
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashishjob&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishjob&layout=compact&theme=vision-friendly-dark)](https://github.com/Ashishjob/github-readme-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmaluJob&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaluJob&layout=compact&theme=vision-friendly-dark)](https://github.com/AmaluJob/github-readme-stats)
  -->
