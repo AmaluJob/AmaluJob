@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/ashish-job/">
+   <a href="www.linkedin.com/in/amalu-job">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://ashishjob104@gmail.com">
+  <a href="https://jobamalu598605@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ashishjob&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hey there, I'm Ashish
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there, I'm Amalu
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)" width="30px"/>
 </h1>
 
 ### About Me
