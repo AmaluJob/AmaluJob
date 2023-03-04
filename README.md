@@ -18,7 +18,7 @@
 </h1>
 
 ### About Me
-- Pronouns: He/Him
+- Pronouns: She/Her
 - I am currently a student at the Honors College of the University of Houston.  
 - I am majoring in Computer Science and minoring in Math.  
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
