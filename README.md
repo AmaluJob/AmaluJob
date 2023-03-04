@@ -23,16 +23,11 @@
 - I am majoring in Biotechnology with a focus in Bioinformatics.  
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
 
-### What I am a part of
-- **Exeutive Intern** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C510BAQEq5r1ol6xSEw/company-logo_100_100/0/1519874930300?e=1686182400&v=beta&t=E4g6CTV2chnV5xkNF9UoVozFwIMWwmMH4L_YJZayewI" />
+### Experiences I've Had:
+- **Graduate Research Assistant** at Texas Tech University <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C560BAQF49r4yoqPQbg/company-logo_100_100/0/1661463281610?e=1686182400&v=beta&t=spQzKFJBoN43s04bVlhBDIbv90Ewxe3OG6bFQiI3DNw" />
 
-- **Event Coordinator** at CougarAI <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1066956886982795304/8SlRtnys03P08AsJ2J876EbDurTg7yejNOB7y6fPFyMjIyMjIyMjIaKXAbh3JCkIbFtNAAAAAElFTkSuQmCC.png" />
+- **Student Trainee** at Baylor College of Medicine: Kaipparettu Lab <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C510BAQEq5r1ol6xSEw/company-logo_100_100/0/1519874930300?e=1686182400&v=beta&t=E4g6CTV2chnV5xkNF9UoVozFwIMWwmMH4L_YJZayewI" />
 
-- **Team Lead** at Code[Coogs] <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/800523149241352233/1064580703154614343/cd9b0eaf-fa7d-4298-8257-322210687f53.png" />
-
-- **Team Member** at CougarCS InfoSec <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/991559564669489203/991561925689360486/unknown.png" />
-
-- **Tutor** at CougarCS Tutoring <img align="left" alt="Java" width="30px" src="https://cdn.discordapp.com/attachments/847703823455354901/985312741789163590/cougarheadRedoTutoringT.png" />
 
 ### How to reach me
 - :mailbox: : jobamalu598605@gmail.com
