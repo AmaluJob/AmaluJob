@@ -19,8 +19,8 @@
 
 ### About Me
 - Pronouns: She/Her
-- I am currently a Master's student at Texas Tech University.  
-- I am majoring in Biotechnology with a focus in Bioinformatics.  
+- I hold a M.S. from the Texas Tech University.  
+- I majored Bioinformatics with a minor in Biotechnology.  
 - I am always eager to learn and gain as much experience and knoweldge as I can!  
 
 ### Experiences I've Had:
