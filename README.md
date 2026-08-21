@@ -1,41 +1,118 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/800523149241352233/1081401498132561971/output-onlinegiftools.gif" width="200"/>
+<div align="center">
+
+# Hi, I'm Amalu 👋
+
+### Data Scientist | Bioinformatics | Healthcare Analytics
+
+I’m a Data Scientist with a background in bioinformatics and biomedical research, 
+focused on applying data analysis, statistical methods, and computational tools 
+to biological and healthcare data.
+
 </div>
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/amalu-job">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://jobamalu598605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
+
+---
+
+## About Me
+
+- 🎓 M.S. in Bioinformatics from Texas Tech University
+- 🧬 Background in biomedical research and bioinformatics
+- 💻 Experience working with R, Python, SQL, and statistical analysis
+- 📊 Interested in healthcare analytics, biomedical data science, and computational biology
+- 🔬 Experience analyzing high-dimensional biological data, including single-cell RNA-seq
+- 📈 Currently expanding my portfolio through hands-on SQL, R, and data visualization projects
+
+---
+
+## Technical Skills
+
+### Programming & Data Analysis
+- **R:** tidyverse, dplyr, ggplot2, Seurat, DESeq2, Bioconductor
+- **Python:** data analysis and scientific computing
+- **SQL:** PostgreSQL, SQLite
+- **Git/GitHub**
+
+### Bioinformatics
+- Single-cell RNA-seq analysis
+- Bulk RNA-seq analysis
+- Differential expression analysis
+- WGCNA
+- Pathway and enrichment analysis
+- Data visualization
+- High-dimensional biological data analysis
+
+### Tools
+- RStudio
+- Git
+- GitHub
+- SQLite
+
+---
+
+## Professional Experience
+
+### Data Scientist I – Analytics & Bioinformatics
+**Cleveland Clinic**
+
+- Apply data science and bioinformatics approaches to biomedical research
+- Analyze and interpret high-dimensional biological datasets
+- Develop reproducible workflows for data processing and analysis
+- Perform statistical analysis, visualization, and exploratory data analysis
+- Work with researchers to support data-driven scientific questions
+
+### Graduate Researcher
+**Texas Tech University**
+
+- Conducted computational and bioinformatics research
+- Applied statistical and programming approaches to biological datasets
+- Developed reproducible analysis workflows in R
+
+### Student Research Trainee
+**Baylor College of Medicine – Kaipparettu Lab**
+
+- Gained research experience in biomedical data analysis
+- Applied computational approaches to biological research questions
+
+---
+
+## Featured Projects
+
+### 📚 Reading Analytics
+
+**SQL | SQLite | R | dplyr | ggplot2 | Git**
+
+A complete analytics workflow using a relational SQLite database and R to analyze personal reading data.
+
+- Designed and populated a relational SQLite database
+- Developed basic and advanced SQL queries
+- Performed exploratory analysis using R and dplyr
+- Created visualizations with ggplot2
+- Analyzed reading trends, ratings, formats, and goal progress
+- Built a reproducible Git/GitHub workflow
+
+🔗 [View Project](https://github.com/AmaluJob/Reading_Analytics)
+
+---
+
+## Currently Learning
+
+- 📊 Advanced data science and statistical modeling
+- 🐍 Expanding Python for data science
+- 🗄️ SQL and database analysis
+- 📈 Data visualization and dashboard development
+- 🧬 Advanced computational biology and single-cell analysis
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amalu-job">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jobamalu598605@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
-<div id="profileviews" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmaluJob&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  Hey there, I'm Amalu
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-### About Me
-- Pronouns: She/Her
-- I hold a M.S. from the Texas Tech University.  
-- I majored Bioinformatics with a minor in Biotechnology.  
-- I am always eager to learn and gain as much experience and knoweldge as I can!  
-
-### Experiences I've Had:
-- **Graduate Research Assistant** at Texas Tech University <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C560BAQF49r4yoqPQbg/company-logo_100_100/0/1661463281610?e=1686182400&v=beta&t=spQzKFJBoN43s04bVlhBDIbv90Ewxe3OG6bFQiI3DNw" />
-
-- **Student Trainee** at Baylor College of Medicine: Kaipparettu Lab <img align="left" alt="Java" width="30px" src="https://media.licdn.com/dms/image/C510BAQEq5r1ol6xSEw/company-logo_100_100/0/1519874930300?e=1686182400&v=beta&t=E4g6CTV2chnV5xkNF9UoVozFwIMWwmMH4L_YJZayewI" />
-
-
-### How to reach me/Links:
-- :mailbox: : jobamalu598605@gmail.com
-- :link: : www.linkedin.com/in/amalu-job
-- 🍱   :  https://bento.me/amalu
-
--------------------------------------------------------
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmaluJob&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaluJob&layout=compact&theme=vision-friendly-dark)](https://github.com/AmaluJob/github-readme-stats)
- -->
